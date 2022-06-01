@@ -1,5 +1,4 @@
 .*
 !.gitignore
-Testing/Software/Counter/"GNU ARM v10.2.1 - Default"
-Testing/Software/Counter/.*
-
+Testing/Software/Counter_Examples/GNU ARM v10.2.1 - Default/
+Testing/Software/Counter_FREERTOS/GNU ARM v10.2.1 - Default/
