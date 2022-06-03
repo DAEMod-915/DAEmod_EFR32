@@ -1,6 +1,6 @@
 # EFR32 Development
 
-## Dependcies
+## Dependencies
 ### Hardware
 2. [EFR32FG23-DK2600A](https://www.silabs.com/development-tools/wireless/proprietary/efr32fg23-868-915-mhz-14-dbm-dev-kit) dev kit
 
